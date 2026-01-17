@@ -43,7 +43,7 @@ $$Fitness = (0.4 \times AvgTime) + (0.3 \times (100 - Util\%)) + (0.2 \times Dis
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/warehouse-optimization-sim.git](https://github.com/YOUR_USERNAME/warehouse-optimization-sim.git)
+    git clone [https://github.com/abdullah_imran49/warehouse-optimization-sim.git](https://github.com/abdullah_imran49/warehouse-optimization-sim.git)
     cd warehouse-optimization-sim
     ```
 
